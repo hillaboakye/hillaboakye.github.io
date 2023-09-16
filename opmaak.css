@@ -1,13 +1,21 @@
 .third-level-menu
 ul {
-    list-style-type: none;
-    margin: 0;
+    position: absolute;
+    top: 0;
+    right: -150px;
+    width: 150px;
+    list-style: none;
     padding: 0;
-    width: 200px;
-    /*background-color: #f1f1f13b;*/
-    color: rgba(186, 255, 159, 0.788);
-    background-color: rgba(224, 151, 253, 0);
-  }
+    margin: 0;
+    display: none;
+}
+
+.third-level-menu > li
+{
+    height: 30px;
+    background: #71c7d6;
+}
+.third-level-menu > li:hover { background: #f86cdaaf; }
   
   
 #body2{

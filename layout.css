@@ -50,7 +50,7 @@
     float: left;
     height: 30px;
     width: 150px;
-    background: #999999;
+    background: #f8afd7a2;
 }
 .top-level-menu > li:hover { background: #CCCCCC; }
 
@@ -74,4 +74,4 @@
     display: block;
     line-height: 30px;
 }
-.top-level-menu a:hover { color: #000000; }
+.top-level-menu a:hover { color: #00000011; }

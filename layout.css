@@ -15,7 +15,7 @@
     height: 30px;
     background: #71c7d6;
 }
-.third-level-menu > li:hover { background: #CCCCCC; }
+.third-level-menu > li:hover { background: #f86cdaaf; }
 
 .second-level-menu
 {
@@ -35,7 +35,7 @@
     height: 30px;
     background: #999999;
 }
-.second-level-menu > li:hover { background: #CCCCCC; }
+.second-level-menu > li:hover { background: #f08fd896; }
 
 .top-level-menu
 {

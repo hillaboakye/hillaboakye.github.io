@@ -16,7 +16,7 @@ ul {
 }
 
 body {
-  background-color:slateblue ; 
+  background-color:rgba(151, 255, 103, 0.363) ; 
 
 }
 
@@ -42,7 +42,7 @@ body {
 
 li a {
     display: block;
-    color: #000;
+    color: #fd85cf;
     padding: 8px 16px;
     text-decoration: none;
   }

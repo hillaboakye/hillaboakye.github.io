@@ -1,0 +1,59 @@
+/*bolletjes weg, marge en padding op 0*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    /*background-color: #f1f1f13b;*/
+    color: slateblue;
+    background-color: rgba(151, 253, 151, 0.644);
+  }
+  
+  
+#body2{
+  color: mediumseagreen;
+
+}
+
+body {
+  background-color:slateblue ; 
+
+}
+
+#p1 {
+    color:aqua;
+    background-color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+}
+ 
+
+#p2 {
+  color:rgb(255, 81, 0);
+  background-color: beige;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: large;
+}
+/*m1 is een menu van index.html*/
+#m1 {
+    color: slateblue;
+    background-color: rgb(205, 90, 182);
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* bij hoveren verandert de kleur van de link */
+  li a:hover {
+    background-color: #555;
+    color: white;
+  }
+
+  #m1 {
+    text-align: center;
+
+  }

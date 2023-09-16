@@ -1,11 +1,11 @@
-/*bolletjes weg, marge en padding op 0*/
+.third-level-menu
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     width: 200px;
     /*background-color: #f1f1f13b;*/
-    color: slateblue;
+    color: rgba(186, 255, 159, 0.788);
     background-color: rgba(224, 151, 253, 0);
   }
   
@@ -49,7 +49,7 @@ li a {
   
   /* bij hoveren verandert de kleur van de link */
   li a:hover {
-    background-color: #555;
+    background-color: #f889f3;
     color: white;
   }
 

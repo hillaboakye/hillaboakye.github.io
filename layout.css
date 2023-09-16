@@ -13,7 +13,7 @@
 .third-level-menu > li
 {
     height: 30px;
-    background: #71c7d6;
+    background: #91dce9c4;
 }
 .third-level-menu > li:hover { background: #f86cdaaf; }
 
@@ -22,7 +22,7 @@
     position: absolute;
     top: 30px;
     left: 0;
-    width: 150px;
+    width: 152px;
     list-style: none;
     padding: 0;
     margin: 0;

@@ -32,6 +32,12 @@ body {
 
 }
 
+p{
+  float: left;
+  width: 700px;
+
+
+}
 #p1 {
     color:aqua;
     background-color: rgb(151, 255, 156);

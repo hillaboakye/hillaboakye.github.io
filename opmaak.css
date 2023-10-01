@@ -1,4 +1,6 @@
-
+p {
+  text-align: left;
+}
 .third-level-menu
 ul {
     position: absolute;

@@ -2,10 +2,6 @@ h3 {
   float: left;
 
 }
-
-p {
-  text-align: left;
-}
 .third-level-menu
 ul {
     position: absolute;
@@ -63,6 +59,6 @@ li a {
   }
 
   #m1 {
-    text-align: center;
+    text-align: left;
 
   }

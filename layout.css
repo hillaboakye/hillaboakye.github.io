@@ -59,7 +59,9 @@
     /* On hover, display the next level's menu */
     display: inline;
 }
-
+p {
+    text-align: left;
+  }
 
 /* Menu Link Styles */
 
